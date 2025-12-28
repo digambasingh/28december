@@ -40,7 +40,7 @@ dependency-reduced-pom.xml
 # =========================
 .project
 .classpath
-.settings/
+.settings/ssss
 .factorypath
 
 # =========================
